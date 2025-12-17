@@ -43,21 +43,25 @@ I'm passionate about understanding the **core concepts** behind technologies, no
 
 ## 🌟 Featured Projects
 
-### 🛒 E-Commerce Platform
-A full-featured e-commerce solution with shopping cart, payment integration, and admin dashboard.
-- **Tech:** JavaScript, Node.js
-- [View Project →](https://github.com/mesan237/e-commerce)
+### 🏠 RentApp - Gestion de Loyers
+Application web de gestion des loyers d'une cité, conçue pour simplifier la vie du bailleur et lui permettre de suivre de près la situation financière de la cité.
+- **Technologies:** React.js, Node.js, MongoDB, Express.js
+- **Fonctionnalités:** Gestion des locataires, suivi des paiements, gestion des dépenses, rapports financiers
+- [Voir le code source →](https://github.com/mesan237/rent-app-management)
+- [Page détails du projet](/rentApp)
 
-### 🍽️ Restaurant Management System
-Modern restaurant website with booking system and menu management.
-- **Tech:** HTML, CSS, JavaScript
-- [View Project →](https://github.com/mesan237/Restaurant)
+### 🛒 EcomIoT - Plateforme E-Commerce
+Plateforme e-commerce moderne construite avec la stack MERN, offrant une expérience d'achat fluide et une interface d'administration complète.
+- **Technologies:** React.js, Node.js, MongoDB, Tailwind CSS
+- **Fonctionnalités:** Catalogue produits, panier d'achat, authentification, dashboard admin, gestion des stocks
+- [Voir le code source →](https://github.com/mesan237/e-commerce)
+- [Page détails du projet](/ecomiot)
 
-### 🔌 Rent App
-Real-time communication application using WebSocket technology.
-- **Tech:** Java, Socket.io
-- [View Project →](https://github.com/mesan237/rentApp)
-
+### 🏪 Multi-Vendor Marketplace - E-Commerce Multi-Vendeurs
+Plateforme e-commerce multi-vendeurs sophistiquée développée avec Laravel et Tailwind CSS, permettant aux vendeurs de gérer leurs boutiques indépendamment.
+- **Technologies:** Laravel, PHP, Tailwind CSS, MySQL, Blade Templates
+- **Fonctionnalités:** Gestion multi-vendeurs, paiements sécurisés, interface admin, système de commission, analytics
+- [Voir la démo live →](https://marketplace.mboatech.cloud)
 ---
 
 ## 📈 What I'm Working On
