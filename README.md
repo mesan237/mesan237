@@ -59,7 +59,7 @@ Plateforme e-commerce moderne construite avec la stack MERN, offrant une expéri
 
 ### 🏪 Multi-Vendor Marketplace - E-Commerce Multi-Vendeurs
 Plateforme e-commerce multi-vendeurs sophistiquée développée avec Laravel et Tailwind CSS, permettant aux vendeurs de gérer leurs boutiques indépendamment.
-- **Technologies:** Laravel, PHP, Tailwind CSS, MySQL, Blade Templates
+- **Technologies:** Laravel, PHP, Next js, Tailwind CSS, MySQL
 - **Fonctionnalités:** Gestion multi-vendeurs, paiements sécurisés, interface admin, système de commission, analytics
 - [Voir la démo live →](https://marketplace.mboatech.cloud)
 ---
