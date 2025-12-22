@@ -48,14 +48,12 @@ Application web de gestion des loyers d'une cité, conçue pour simplifier la vi
 - **Technologies:** React.js, Node.js, MongoDB, Express.js
 - **Fonctionnalités:** Gestion des locataires, suivi des paiements, gestion des dépenses, rapports financiers
 - [Voir le code source →](https://github.com/mesan237/rent-app-management)
-- [Page détails du projet](/rentApp)
 
 ### 🛒 EcomIoT - Plateforme E-Commerce
 Plateforme e-commerce moderne construite avec la stack MERN, offrant une expérience d'achat fluide et une interface d'administration complète.
 - **Technologies:** React.js, Node.js, MongoDB, Tailwind CSS
 - **Fonctionnalités:** Catalogue produits, panier d'achat, authentification, dashboard admin, gestion des stocks
 - [Voir le code source →](https://github.com/mesan237/e-commerce)
-- [Page détails du projet](/ecomiot)
 
 ### 🏪 Multi-Vendor Marketplace - E-Commerce Multi-Vendeurs
 Plateforme e-commerce multi-vendeurs sophistiquée développée avec Laravel et Tailwind CSS, permettant aux vendeurs de gérer leurs boutiques indépendamment.
@@ -79,7 +77,7 @@ I'm always interested in collaborating on projects that have real business impac
 📫 **Get in Touch:**
 - 💼 Available for freelance projects
 - 🌍 Based in Cameroon
-- 📧 [negokamgaing@gmail.com]
+- 📧 [ negokamgaing@gmail.com ]
 - 💬 Open to consulting and collaborations
 
 ---
