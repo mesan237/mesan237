@@ -79,7 +79,7 @@ I'm always interested in collaborating on projects that have real business impac
 📫 **Get in Touch:**
 - 💼 Available for freelance projects
 - 🌍 Based in Cameroon
-- 📧 [Your Email Here]
+- 📧 [negokamgaing@gmail.com]
 - 💬 Open to consulting and collaborations
 
 ---
